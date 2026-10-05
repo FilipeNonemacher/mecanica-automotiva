@@ -12,7 +12,6 @@ from PIL import Image, ImageChops, ImageOps
 from funcoes import Funcoes, valor_em_centavos, formatar_reais, gerar_pdf_orcamento
 
 
-
 # CONFIGURAÇÃO GERAL
 
 DB_PATH = "bd_oficina"
