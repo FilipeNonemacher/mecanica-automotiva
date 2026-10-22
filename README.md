@@ -55,3 +55,9 @@ cd mecanica-automotiva-main
 ```bash
 python -m pip install -r requeriments.txt
 ```
+
+### 3. Acesso ao Login
+Por padrão, a o usuário vem salvo como 'admin' e a senha "admin123'
+
+## Creditos
+Criado por João Figueió e Filipe Nonemacher
