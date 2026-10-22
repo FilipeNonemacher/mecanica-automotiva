@@ -60,4 +60,4 @@ python -m pip install -r requeriments.txt
 Por padrão, a o usuário vem salvo como 'admin' e a senha "admin123'
 
 ## Creditos
-Criado por João Figueió e Filipe Nonemacher
+Criado por João Figueiró e Filipe Nonemacher
