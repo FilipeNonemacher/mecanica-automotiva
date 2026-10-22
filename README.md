@@ -47,7 +47,7 @@ git clone https://github.com/FilipeNonemacher/mecanica-automotiva.git
 Acesse a pasta do projeto:
 
 ```bash
-cd OficinaMecanica
+cd mecanica-automotiva-main
 ```
 
 ### 2. Instale as Dependências
