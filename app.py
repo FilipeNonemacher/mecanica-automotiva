@@ -9,7 +9,7 @@ from tkinter import ttk, messagebox, filedialog
 from tkinter import font as tkfont
 from PIL import Image, ImageChops, ImageOps
 
-from funcoes import Funcoes, valor_em_centavos, formatar_reais, gerar_pdf_orcamento
+from classes.funcoes import Funcoes, valor_em_centavos, formatar_reais, gerar_pdf_orcamento
 
 
 # CONFIGURAÇÃO GERAL
@@ -22,7 +22,7 @@ PASTAS_IMAGENS = [
 ]
 DIR_IMAGENS = next((p for p in PASTAS_IMAGENS if os.path.isdir(p)), PASTAS_IMAGENS[0])
 
-# Menu em cinza claro com um toque de verde; área de trabalho em grafite.
+# Menu em cinza claro com um toque de verde, área de trabalho em grafite.
 COR_FUNDO = "#202628"
 COR_LATERAL = "#EDF1ED"
 COR_SUPERFICIE = "#282F32"
