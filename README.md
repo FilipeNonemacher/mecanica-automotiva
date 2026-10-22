@@ -50,7 +50,7 @@ Acesse a pasta do projeto:
 cd OficinaMecanica
 ```
 
-### 3. Instale as Dependências
+### 2. Instale as Dependências
 
 ```bash
 python -m pip install -r requeriments.txt
